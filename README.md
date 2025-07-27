@@ -12,7 +12,3 @@ This project includes:
 
 - HTML
 - CSS
-
-## How to run
-
-Download or clone this repo, open `INDEX.html` in your browser.
